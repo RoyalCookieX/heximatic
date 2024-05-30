@@ -1,0 +1,8 @@
+# heximatic .gitignore
+
+# cargo
+debug/
+target/
+
+# vscode
+.vscode/
